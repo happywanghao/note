@@ -33,11 +33,6 @@
   - [ajax](./react/ajax.md)
   - [yarn](./react/yarn.md)
 
-<!-- * vue
-  - [vue](./vue/vue.md)
-  - [vue-router](./vue/vue-router.md)
-  - [vuex](./vue/vuex.md) -->
-
 
 * Redux 入门教程
 
